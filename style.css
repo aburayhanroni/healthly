@@ -1,0 +1,91 @@
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: center;
+}
+
+.top-banner {
+    width: 100%;
+
+    display: inline-flex;
+  
+}
+
+.orange {
+    color: orange;
+}
+
+.top-banner {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+
+.top-banner h2 {
+    font-size: 50px;
+}
+.articale-part{
+
+        margin-left: 150px;
+        margin-top: 125px;
+
+}
+
+.top-banner img{
+    width: 500px;
+    margin-left:630px;
+    position: absolute;
+}
+.link-button{
+    color: whitesmoke;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: 900;
+    border-radius: 50px;
+}
+
+p{
+    margin-bottom: 50px;
+}
+
+/* about part herr */
+
+.about-part{
+    background-image: url(images/shapes/7.png);
+    height: 500px; 
+}
+.about-section{
+    display: flex;
+}
+.person-image img{
+    width: 32%;
+    margin-left: 150px;
+    margin-top: 98px;
+}
+.articale{
+  width: 50%;
+  margin-top: 150px;
+}
+
+/* abot part stop */
+
+.my-recipies{
+    text-align: center;
+    width: 300px;
+    margin-left: 42%;
+}
+.card-part-area{
+    display: flex;
+}
+.box-model img{
+    width: inherit;
+    
+}
+.box-model {
+    border-radius: 10px;
+    width: 500px;
+    padding: 10px;
+    box-shadow: 0px 0px 22px gray;
+     margin-left: 65px;
+}
